@@ -96,6 +96,12 @@
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
+<div>
+  <p align="center">
+	<a href="[https://github.com/jocs1989/ecommerce](https://github.com/jocs1989/APIBEGO)">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jocs1989&repo=ecommerce&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </div>
 	
 <div>
   <p align="center">
